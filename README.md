@@ -4,17 +4,6 @@ This project demonstrates real-time face detection using OpenCV’s `dnn` module
 
 
 
-## 📂 Project Structure
-
-
-├── deploy.prototxt                        # Network architecture for Caffe model
-├── res10_300x300_ssd_iter_140000.caffemodel  # Pre-trained face detection model
-├── face_detection.py                     # Main Python script
-├── README.md
-└── requirements.txt
-
-
----
 
 ## 🚀 Getting Started
 
