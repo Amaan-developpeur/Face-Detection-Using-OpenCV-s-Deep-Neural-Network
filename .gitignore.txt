@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+*.egg-info/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+
+# Model files
+*.caffemodel
+*.pb
+*.onnx
+*.tflite
+*.prototxt
+
+# Images or test output
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+output/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Misc
+*.zip
+*.tar
+*.gz
