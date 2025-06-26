@@ -5,7 +5,7 @@ This project demonstrates real-time face detection using OpenCV’s `dnn` module
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
